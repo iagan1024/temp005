@@ -6,3 +6,7 @@ It can help us to learn Git tool.
 I am iRichard0.
 I come from BJ.
 I like Java, I like Git.
+
+## 2.1 Git
+Git is a version control software.
+It can help us to finish our product quickly.
